@@ -1,52 +1,45 @@
 class Solution {
-    vector<int> parent;
-    vector<int> rank;
-
-    // Find function with path compression
-    int find(int i) {
-        if (parent[i] == i) {
-            return i;
-        }
-        // Path compression: point the node directly to the root
-        return parent[i] = find(parent[i]);
-    }
-
-    void union_set(int i, int j) {
-        int root_i = find(i);
-        int root_j = find(j);
-        
-        if (root_i != root_j) {
-            if (rank[root_i] < rank[root_j]) {
-                parent[root_i] = root_j;
-            } else if (rank[root_i] > rank[root_j]) {
-                parent[root_j] = root_i;
-            } else {
-                parent[root_j] = root_i;
-                rank[root_i]++;
+    void dfs(int node, int compId, vector<vector<int>>& adj, vector<int>& component) {
+        component[node] = compId;
+        for (int neighbor : adj[node]) {
+            if (component[neighbor] == 0) {
+                dfs(neighbor, compId, adj, component);
             }
         }
     }
 
 public:
     vector<bool> areConnected(int n, int threshold, vector<vector<int>>& queries) {
-        parent.resize(n + 1);
-        rank.resize(n + 1, 0);
-        for (int i = 1; i <= n; i++) {
-            parent[i] = i; 
-        }
+        vector<vector<int>> adj(n + 1);
         for (int z = threshold + 1; z <= n; z++) {
-            for (int m = 2 * z; m <= n; m += z) {
-                union_set(z, m);
+            for (int m = z * 2; m <= n; m += z) {
+                adj[z].push_back(m);
+                adj[m].push_back(z);
             }
         }
-
-        vector<bool> result;
-        result.reserve(queries.size());
+        vector<int> component(n + 1, 0);
+        int currentComponentId = 1;
         
-        for (const auto& q : queries) {
-            result.push_back(find(q[0]) == find(q[1]));
+        for (int i = 1; i <= n; i++) {
+            if (component[i] == 0) {
+                dfs(i, currentComponentId, adj, component);
+                currentComponentId++;
+            }   
         }
 
+        vector<bool> result(queries.size());
+        
+        for (int i = 0; i < queries.size(); i++) {
+            int cityA = queries[i][0];
+            int cityB = queries[i][1];
+            
+            if (component[cityA] == component[cityB]) {
+                result[i] = true;
+            } else {
+                result[i] = false;
+            }
+        }
+        
         return result;
     }
 };
