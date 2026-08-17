@@ -25,6 +25,7 @@ public:
         for(int num : nums){
             maxSize = max(maxSize,num);
         }
+        int threshold = 1;
         vector<vector<int>> adj(maxSize+1);
         vector<bool> isNum(maxSize+1,false);
         for(int i=0;i<nums.size();i++){
@@ -32,18 +33,33 @@ public:
             isNum[num] = true;
 
             int temp = num;
-            for(int f=2;f*f<=temp;f++){
-                if(temp%f == 0){
-                    adj[num].push_back(f);
-                    adj[f].push_back(num);
-                    while(temp % f == 0){
-                        temp = temp/f;
+            // for(int f=2;f*f<=temp;f++){
+            //     if(temp%f == 0){
+            //         adj[num].push_back(f);
+            //         adj[f].push_back(num);
+            //         while(temp % f == 0){
+            //             temp = temp/f;
+            //         }
+            //     }     
+            // }
+            // if(temp > 1){
+            //     adj[num].push_back(temp);
+            //     adj[temp].push_back(num);
+            // }
+            for(int f=1;f*f<=num;f++){
+                if(num%f == 0){
+                    int div1 = f;
+                    int div2 = num/f;
+
+                    if(div1 > threshold){
+                        adj[num].push_back(div1);
+                        adj[div1].push_back(num);
                     }
-                }     
-            }
-            if(temp > 1){
-                adj[num].push_back(temp);
-                adj[temp].push_back(num);
+                    if(div2 > threshold){
+                        adj[num].push_back(div2);
+                        adj[div2].push_back(num);
+                    }
+                }
             }
         }
         
