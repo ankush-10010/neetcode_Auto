@@ -26,11 +26,9 @@ public:
         int n = strs.size();
         parent.resize(n);
         groupCount = n;
-
         for(int i=0;i<n;i++){
             parent[i] = i;
-        } 
-
+        }
         for(int i=0;i<n;i++){
             for(int j=i+1;j<n;j++){
                 if(isSimilar(strs[i],strs[j])){
