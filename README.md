@@ -76,14 +76,17 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ankush-10010/neetcode_Auto/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ankush-10010/neetcode_Auto/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ankush-10010/neetcode_Auto/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ankush-10010/neetcode_Auto/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ankush-10010/neetcode_Auto/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ankush-10010/neetcode_Auto/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ankush-10010/neetcode_Auto/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ankush-10010/neetcode_Auto/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
@@ -115,4 +118,12 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ankush-10010/neetcode_Auto/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ankush-10010/neetcode_Auto/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ankush-10010/neetcode_Auto/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 <!---LeetCode Topics End-->
