@@ -109,6 +109,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/ankush-10010/neetcode_Auto/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ankush-10010/neetcode_Auto/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
@@ -126,4 +127,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ankush-10010/neetcode_Auto/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/ankush-10010/neetcode_Auto/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 <!---LeetCode Topics End-->
