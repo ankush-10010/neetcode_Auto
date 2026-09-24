@@ -78,6 +78,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ankush-10010/neetcode_Auto/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ankush-10010/neetcode_Auto/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ankush-10010/neetcode_Auto/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -112,6 +113,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- | ------- |
 | [1401-circle-and-rectangle-overlapping](https://github.com/ankush-10010/neetcode_Auto/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ankush-10010/neetcode_Auto/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ankush-10010/neetcode_Auto/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
