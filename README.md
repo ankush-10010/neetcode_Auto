@@ -76,6 +76,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Array
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/ankush-10010/neetcode_Auto/tree/master/0218-the-skyline-problem) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ankush-10010/neetcode_Auto/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1882-process-tasks-using-servers](https://github.com/ankush-10010/neetcode_Auto/tree/master/1882-process-tasks-using-servers) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ankush-10010/neetcode_Auto/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
@@ -95,6 +96,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Sorting
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/ankush-10010/neetcode_Auto/tree/master/0218-the-skyline-problem) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ankush-10010/neetcode_Auto/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Two Pointers
 |  |
@@ -146,5 +148,26 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/ankush-10010/neetcode_Auto/tree/master/0218-the-skyline-problem) |
 | [1882-process-tasks-using-servers](https://github.com/ankush-10010/neetcode_Auto/tree/master/1882-process-tasks-using-servers) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/ankush-10010/neetcode_Auto/tree/master/0218-the-skyline-problem) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/ankush-10010/neetcode_Auto/tree/master/0218-the-skyline-problem) |
+## Segment Tree
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/ankush-10010/neetcode_Auto/tree/master/0218-the-skyline-problem) |
+## Sweep Line
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/ankush-10010/neetcode_Auto/tree/master/0218-the-skyline-problem) |
+## Ordered Set
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/ankush-10010/neetcode_Auto/tree/master/0218-the-skyline-problem) |
 <!---LeetCode Topics End-->
