@@ -77,6 +77,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ankush-10010/neetcode_Auto/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1882-process-tasks-using-servers](https://github.com/ankush-10010/neetcode_Auto/tree/master/1882-process-tasks-using-servers) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ankush-10010/neetcode_Auto/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ankush-10010/neetcode_Auto/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 ## Binary Search
@@ -142,4 +143,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/ankush-10010/neetcode_Auto/tree/main/3498-reverse-degree-of-a-string/) | Easy |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1882-process-tasks-using-servers](https://github.com/ankush-10010/neetcode_Auto/tree/master/1882-process-tasks-using-servers) |
 <!---LeetCode Topics End-->
