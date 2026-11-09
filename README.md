@@ -78,6 +78,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0218-the-skyline-problem](https://github.com/ankush-10010/neetcode_Auto/tree/master/0218-the-skyline-problem) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ankush-10010/neetcode_Auto/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/ankush-10010/neetcode_Auto/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/ankush-10010/neetcode_Auto/tree/master/1882-process-tasks-using-servers) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ankush-10010/neetcode_Auto/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ankush-10010/neetcode_Auto/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
@@ -144,11 +145,13 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Simulation
 |  |
 | ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/ankush-10010/neetcode_Auto/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [3498-reverse-degree-of-a-string](https://github.com/ankush-10010/neetcode_Auto/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/ankush-10010/neetcode_Auto/tree/master/0218-the-skyline-problem) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/ankush-10010/neetcode_Auto/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/ankush-10010/neetcode_Auto/tree/master/1882-process-tasks-using-servers) |
 ## Divide and Conquer
 |  |
@@ -170,4 +173,5 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/ankush-10010/neetcode_Auto/tree/master/0218-the-skyline-problem) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/ankush-10010/neetcode_Auto/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 <!---LeetCode Topics End-->
