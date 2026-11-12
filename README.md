@@ -82,6 +82,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [1882-process-tasks-using-servers](https://github.com/ankush-10010/neetcode_Auto/tree/master/1882-process-tasks-using-servers) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ankush-10010/neetcode_Auto/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ankush-10010/neetcode_Auto/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
+| [3693-climbing-stairs-ii](https://github.com/ankush-10010/neetcode_Auto/tree/master/3693-climbing-stairs-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -94,6 +95,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ankush-10010/neetcode_Auto/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ankush-10010/neetcode_Auto/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ankush-10010/neetcode_Auto/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
+| [3693-climbing-stairs-ii](https://github.com/ankush-10010/neetcode_Auto/tree/master/3693-climbing-stairs-ii) |
 ## Sorting
 |  |
 | ------- |
