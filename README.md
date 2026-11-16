@@ -112,6 +112,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/ankush-10010/neetcode_Auto/tree/master/0567-permutation-in-string) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/ankush-10010/neetcode_Auto/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ankush-10010/neetcode_Auto/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3498-reverse-degree-of-a-string](https://github.com/ankush-10010/neetcode_Auto/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Greedy
@@ -153,6 +154,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/ankush-10010/neetcode_Auto/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/ankush-10010/neetcode_Auto/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/ankush-10010/neetcode_Auto/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Heap (Priority Queue)
 |  |
